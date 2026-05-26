@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervrocess",
+        "uuid": 4337312,
+        "checksum": "mi6vd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
